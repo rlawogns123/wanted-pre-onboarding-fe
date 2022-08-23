@@ -1,0 +1,21 @@
+.createForm {
+  text-align: center;
+}
+
+.inputData {
+  height: 100px;
+  display: inline-flex;
+}
+
+.input {
+  width: 400px;
+  height: 30px;
+  margin: auto;
+  margin-right: 30px;
+}
+
+.btn {
+  width: 100px;
+  height: 30px;
+  margin: auto;
+}

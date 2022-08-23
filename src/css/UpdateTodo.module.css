@@ -1,0 +1,37 @@
+.updateForm {
+  width: 700px;
+  height: 100px;
+  margin: 0 auto;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.labelText {
+  margin: 0 10px;
+  font-size: 15px;
+}
+
+.checkBox {
+  margin: 0 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.inputData {
+  height: 100px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.input {
+  width: 250px;
+  height: 30px;
+  margin: 0 20px;
+  margin-right: 30px;
+}
+
+.Btn {
+  width: 100px;
+  height: 30px;
+  margin: 0 10px;
+}
